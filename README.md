@@ -7,6 +7,7 @@ Welcome to the WAter Data Exchange (WADE). This is intended to be a system for c
 * Github: A website that makes contributing data and software easier. Github is commonly used for a large number of open-source software and data projects.
 * Git: Git is a software versioning system developed for open-source. It is a system for keeping track of changes in software development, but it works just as well for text and data. For the most part, you shouldn't have to worry about how it works or how to use it.
 * Repository: A repository is a collection of data/text. In the context of WADE, a repository is forked from the original `Foundry-Spatial/WADE` repository.  Commonly shortened to "repo".
+* Forking a repository: A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. Most commonly, forks are used to either propose changes to someone else's project, or to use someone else's project as a starting point for your own idea.
 * License: A licence in the context of this repository.
 
 ## Participating
