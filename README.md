@@ -1,18 +1,17 @@
 # WADE
 
-Welcome to the WAter Data Exchange (WADE). This Data Exchange relies upon the connections between groups' repositories, so in order to participate, you need to fork this repository.
+Welcome to the WAter Data Exchange (WADE). This is intended to be a system for citizen science water observation publishing. This Data Exchange relies upon the connections between groups' repositories, so in order to participate, you will need to "fork" this repository.Not sure what the means? We explain below!
 
-## Terminology
+## Introductory Terminology
 
-* Github: A website to make contributions of data and software easier. Github is commonly used for a large number of open source software and data projects.
-* Repository: A repository is a collection of data/text. In the context of WADE, it is a repository which is forked from the original `Foundry-Spatial/WADE` repository.  Commonly shortened to "repo".
-* WADE: WADE is an acronym for WAter Data Exchange. This is intended to be a system for citizen science water observation publishing.
-* git: Git is a software versioning system developed for open source. It is a system for keeping track of changes in software development, but it works just as well for text and data. For the most part, you shouldn't have to worry about how it works or how to use it.
-* License: A licence in the context of this repository
+* Github: A website that makes contributing data and software easier. Github is commonly used for a large number of open-source software and data projects.
+* Git: Git is a software versioning system developed for open-source. It is a system for keeping track of changes in software development, but it works just as well for text and data. For the most part, you shouldn't have to worry about how it works or how to use it.
+* Repository: A repository is a collection of data/text. In the context of WADE, a repository is forked from the original `Foundry-Spatial/WADE` repository.  Commonly shortened to "repo".
+* License: A licence in the context of this repository.
 
 ## Participating
 
-This project is designed to be easy to contribute, and easy to use. If you find any friction points, please contact Foundry Spatial at technical@foundryspatial.com.
+This project is designed not only to make contributing easy, but accessing contributions from other groups should be straight-forward as well. If you have any difficulties in navigating the website, please contact Foundry Spatial at technical@foundryspatial.com.
 
 Forking this project will also give you a website page at a URL that looks like this: `https://<username>.github.io/<projectname>/`. For example, this project has a website page here: <https://foundry-spatial.github.io/WADE/>, which was generated from the `index.md` file in the `docs` directory - Modify as you like but please keep the `---` lines at the top of file or your page won't get generated.  [Read more about github pages.](https://pages.github.com/)
 
