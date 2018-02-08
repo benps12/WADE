@@ -2,6 +2,14 @@
 
 Welcome to the WAter Data Exchange (WADE). This Data Exchange relies upon the connections between groups' repositories, so in order to participate, you need to fork this repository.
 
+## Terminology
+
+* Github: A website to make contributions of data and software easier. Github is commonly used for a large number of open source software and data projects.
+* Repository: A repository is a collection of data/text. In the context of WADE, it is a repository which is forked from the original `Foundry-Spatial/WADE` repository.  Commonly shortened to "repo".
+* WADE: WADE is an acronym for WAter Data Exchange. This is intended to be a system for citizen science water observation publishing.
+* git: Git is a software versioning system developed for open source. It is a system for keeping track of changes in software development, but it works just as well for text and data. For the most part, you shouldn't have to worry about how it works or how to use it.
+* License: A licence in the context of this repository
+
 ## Participating
 
 This project is designed to be easy to contribute, and easy to use. If you find any friction points, please contact Foundry Spatial at technical@foundryspatial.com.
@@ -60,10 +68,3 @@ All other files in the `data` directory will be considered as "observational dat
 
 All headers in the observational data csvs should include the variable and their measurement units as required. e.g. Stream Discharge (m3/s), Water Level (Metres), Minimum Temperature (celsius), &c.  See the example `observations.csv` file.  You may edit this file or add others.
 
-## Terminology
-
-* Github: A website to make contributions of data and software easier. Github is commonly used for a large number of open source software and data projects.
-* Repository: A repository is a collection of data/text. In the context of WADE, it is a repository which is forked from the original `Foundry-Spatial/WADE` repository.  Commonly shortened to "repo".
-* WADE: WADE is an acronym for WAter Data Exchange. This is intended to be a system for citizen science water observation publishing.
-* git: Git is a software versioning system developed for open source. It is a system for keeping track of changes in software development, but it works just as well for text and data. For the most part, you shouldn't have to worry about how it works or how to use it.
-* License: A licence in the context of this repository
