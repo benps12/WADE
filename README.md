@@ -1,6 +1,6 @@
 # WADE
 
-Welcome to the WAter Data Exchange (WADE). This is intended to be a system for citizen science water observation publishing. This Data Exchange relies upon the connections between groups' repositories, so in order to participate, you will need to "fork" this repository.Not sure what the means? We explain below!
+Welcome to the WAter Data Exchange (WADE). This is intended to be a system for citizen-science groups to publish water observation data. This Data Exchange relies upon the connections between groups' repositories, so in order to participate, you will need to "fork" this repository.Not sure what the means? We explain below!
 
 ## Introductory Terminology
 
