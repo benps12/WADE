@@ -1,0 +1,3 @@
+Name,LocationID,Latitude,Longitude,Description,
+River,R,50.5492332,-119.1352277,The point from which river water samples are taken.,"River (raw water): https://www.google.ca/maps/@50.5492332,-119.1352277,185m/data=!3m1!1e3?hl=en"
+Well,W,50.5549741,-119.058837,The location of the well from which well water samples are taken.,"Well: https://www.google.ca/maps/place/487+Enderby+Mabel+Lake+Rd,+Enderby,+BC+V0E+1V4/@50.5549741,-119.058837,162m/data=!3m1!1e3!4m5!3m4!1s0x537e88eadac655bf:0x7475c529c01e9e46!8m2!3d50.556371!4d-119.069687?hl=en"
