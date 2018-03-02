@@ -63,7 +63,7 @@ This file contains unique station/location IDs, and their corresponding names, a
 
 All other files in the `data` directory will be considered as "observational data". In other words, you may separate out your CSV in whichever way you choose, as long as it makes sense to you. However, there needs to be the following columns for any of these files:
 
-* location id, which *must* correspond to a location ID, and be unique (i.e. don't use the same id twice)
+* station ID, which *must* correspond to a location ID, and be unique (i.e. don't use the same id twice)
 * date or datetime (with time zone, if possible) in [ISO 8601 standard format](https://en.wikipedia.org/wiki/ISO_8601) - e.g. `2007-03-01T13:00:00Z`, `2017-12-31`
 
 All headers in the observational data CSVs should include the variable and their measurement units as required (e.g. Stream Discharge (m3/s), Water Level (Metres), Minimum Temperature (celsius), &c).  See the example `observations.csv` file.  You may edit this file or add others.
